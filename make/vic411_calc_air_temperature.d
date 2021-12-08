@@ -1,0 +1,2 @@
+vic411_calc_air_temperature.o vic411_calc_air_temperature.d : vic411_calc_air_temperature.c
+vic411_calc_air_temperature.o : vic411_vicNl.h

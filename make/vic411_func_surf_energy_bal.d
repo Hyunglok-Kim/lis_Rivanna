@@ -1,0 +1,2 @@
+vic411_func_surf_energy_bal.o vic411_func_surf_energy_bal.d : vic411_func_surf_energy_bal.c
+vic411_func_surf_energy_bal.o : vic411_vicNl.h

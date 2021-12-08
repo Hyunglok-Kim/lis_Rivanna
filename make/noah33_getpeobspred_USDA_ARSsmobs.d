@@ -1,0 +1,5 @@
+noah33_getpeobspred_USDA_ARSsmobs.o noah33_getpeobspred_USDA_ARSsmobs.d : noah33_getpeobspred_USDA_ARSsmobs.F90
+noah33_getpeobspred_USDA_ARSsmobs.o : LIS_soilsMod.o
+noah33_getpeobspred_USDA_ARSsmobs.o : LIS_coreMod.o
+noah33_getpeobspred_USDA_ARSsmobs.o : LIS_logMod.o
+noah33_getpeobspred_USDA_ARSsmobs.o : noah33_lsmMod.o

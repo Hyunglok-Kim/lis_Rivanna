@@ -1,0 +1,3 @@
+noah33_setupobspred_USDA_ARSsmobs.o noah33_setupobspred_USDA_ARSsmobs.d : noah33_setupobspred_USDA_ARSsmobs.F90
+noah33_setupobspred_USDA_ARSsmobs.o : LIS_coreMod.o
+noah33_setupobspred_USDA_ARSsmobs.o : LIS_logMod.o

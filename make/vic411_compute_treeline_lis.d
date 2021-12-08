@@ -1,0 +1,2 @@
+vic411_compute_treeline_lis.o vic411_compute_treeline_lis.d : vic411_compute_treeline_lis.c
+vic411_compute_treeline_lis.o : vic411_vicNl.h

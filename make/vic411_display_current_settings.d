@@ -1,0 +1,2 @@
+vic411_display_current_settings.o vic411_display_current_settings.d : vic411_display_current_settings.c
+vic411_display_current_settings.o : vic411_vicNl.h

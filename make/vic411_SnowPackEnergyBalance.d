@@ -1,0 +1,2 @@
+vic411_SnowPackEnergyBalance.o vic411_SnowPackEnergyBalance.d : vic411_SnowPackEnergyBalance.c
+vic411_SnowPackEnergyBalance.o : vic411_vicNl.h

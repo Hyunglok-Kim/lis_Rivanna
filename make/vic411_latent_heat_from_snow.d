@@ -1,0 +1,2 @@
+vic411_latent_heat_from_snow.o vic411_latent_heat_from_snow.d : vic411_latent_heat_from_snow.c
+vic411_latent_heat_from_snow.o : vic411_vicNl.h

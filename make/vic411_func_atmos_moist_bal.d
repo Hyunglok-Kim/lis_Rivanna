@@ -1,0 +1,2 @@
+vic411_func_atmos_moist_bal.o vic411_func_atmos_moist_bal.d : vic411_func_atmos_moist_bal.c
+vic411_func_atmos_moist_bal.o : vic411_vicNl.h

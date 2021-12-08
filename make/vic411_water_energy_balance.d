@@ -1,0 +1,2 @@
+vic411_water_energy_balance.o vic411_water_energy_balance.d : vic411_water_energy_balance.c
+vic411_water_energy_balance.o : vic411_vicNl.h

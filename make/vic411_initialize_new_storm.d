@@ -1,0 +1,2 @@
+vic411_initialize_new_storm.o vic411_initialize_new_storm.d : vic411_initialize_new_storm.c
+vic411_initialize_new_storm.o : vic411_vicNl.h

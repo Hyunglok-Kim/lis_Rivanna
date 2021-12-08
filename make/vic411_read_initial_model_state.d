@@ -1,0 +1,2 @@
+vic411_read_initial_model_state.o vic411_read_initial_model_state.d : vic411_read_initial_model_state.c
+vic411_read_initial_model_state.o : vic411_vicNl.h

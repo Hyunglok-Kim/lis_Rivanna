@@ -1,0 +1,2 @@
+vic411_calc_cloud_cover_fraction.o vic411_calc_cloud_cover_fraction.d : vic411_calc_cloud_cover_fraction.c
+vic411_calc_cloud_cover_fraction.o : vic411_vicNl.h

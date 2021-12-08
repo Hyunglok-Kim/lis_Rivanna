@@ -1,0 +1,3 @@
+module_sf_noah33lsm_glacial.o module_sf_noah33lsm_glacial.d : module_sf_noah33lsm_glacial.F90
+module_sf_noah33lsm_glacial.o : module_sf_noah33lsm.o
+module_sf_noah33lsm_glacial.o : module_model_constants_33.o

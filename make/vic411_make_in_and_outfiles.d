@@ -1,0 +1,2 @@
+vic411_make_in_and_outfiles.o vic411_make_in_and_outfiles.d : vic411_make_in_and_outfiles.c
+vic411_make_in_and_outfiles.o : vic411_vicNl.h

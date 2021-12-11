@@ -666,6 +666,7 @@ module LIS_PRIV_rcMod
 
      integer, allocatable       :: obs_lnc(:)
      integer, allocatable       :: obs_lnr(:)
+
      integer, allocatable       :: obs_lnc_red(:)
      integer, allocatable       :: obs_lnr_red(:)
      integer, allocatable       :: obs_gnc(:)

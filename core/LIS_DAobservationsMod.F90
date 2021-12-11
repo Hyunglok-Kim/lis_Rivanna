@@ -447,7 +447,6 @@ contains
 
     allocate(LIS_obs_domain(LIS_rc%nnest,LIS_rc%ndas))
     allocate(LIS_rc%obs_gridDesc(LIS_rc%ndas, 50))
-    
     allocate(LIS_odeltas(LIS_rc%ndas, 0:LIS_npes-1))
     allocate(LIS_ooffsets(LIS_rc%ndas, 0:LIS_npes-1))
     
